@@ -1,4 +1,6 @@
 An Operating System tells a computer how to start up
 It determines which programs are loaded
 It determines the user interface that loads
-
+An Operating System manages memory
+It can use storage space to create virtual memory. 
+This can optmizie memory function.
