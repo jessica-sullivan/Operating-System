@@ -3,4 +3,7 @@ It determines which programs are loaded
 It determines the user interface that loads
 An Operating System manages memory
 It can use storage space to create virtual memory. 
-This can optmizie memory function.
+This can optmize memory function.
+An Operating System monitors computer performance
+It can show how much memory and storage space a particular process is using.
+This way you can see if some hidden process is using up all your resources.
